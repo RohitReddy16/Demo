@@ -5,5 +5,6 @@ public class day {
         int a=3,b=5;
         int sum=a+b;
         System.out.println(sum);
+        String S='Hi';
     }
 }
