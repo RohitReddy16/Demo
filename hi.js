@@ -3,3 +3,4 @@ const num2=3;
 const sum= num1+num2;
 console.log(sum);
 console.log('Hi....java....');
+CSSConditionRule.log('Rohit');
